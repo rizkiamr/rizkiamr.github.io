@@ -1,6 +1,7 @@
 content
 current
 versions
+static
 .ghost-cli
 .ghostpid
 config.development.json
